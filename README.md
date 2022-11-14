@@ -1,3 +1,4 @@
+# Overview
 This respository contains code in support of the paper [insert link once published].
 
 Note, the data files were too large (>100 MB) to include on github and are available upon request from S Gliske.
@@ -10,7 +11,9 @@ For a full description of this license, see http://creativecommons.org/licenses/
 
 ---------
 
+# Contact Information
+
 Stephen V Gliske
-Department of Neurosurgery
-University of Nebraska Medical Center
-steve.gliske@unmc.edu
+- Department of Neurosurgery
+- University of Nebraska Medical Center
+- steve.gliske@unmc.edu

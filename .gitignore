@@ -1,0 +1,6 @@
+*~
+*asv
+data/*.mat
+plots/*eps
+plots/*png
+plots/*svg

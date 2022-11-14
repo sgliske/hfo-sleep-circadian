@@ -1,0 +1,1 @@
+All resultant plots will be saved into this folder.

@@ -3,7 +3,10 @@ This respository contains code in support of the paper [insert link once publish
 
 Note, the data files were too large (>100 MB) to include on github and are available upon request from S Gliske.
 
-The main starting point for the code is "full_protocol.m".
+The analysis is broken down into three main steps:
+## 1. 'getVigilance_epochs.m'
+## 2. 'compute_cyclicity_rate.m'
+## 3. 'plot_cyclicity_rate.m'
 
 All content in this respository and the associated data files are licensed under the CC BY NC SA v4.0.
 
